@@ -41,8 +41,8 @@ First release version. Features implemented :
 ## User's documentation
 
 You can find on the ST Wiki pages :
-- how to install the STM32WB BLE Sniffer software parts and firmware [here](wiki.st.com/STM32WB_BLE_SNIFFER_SETUP)
-- how to use the STM32WB BLE Sniffer [here](wiki.st.com/STM32WB_BLE_SNIFFER_USER)
+- how to install the STM32WB BLE Sniffer software parts and firmware [here](https://wiki.st.com/stm32mcu/wiki/Connectivity:STM32_Sniffer_for_BLE_Setup_guide)
+- how to use the STM32WB BLE Sniffer [here](https://wiki.st.com/stm32mcu/wiki/Connectivity:STM32_Sniffer_for_BLE_User_guide)
 
 ## UART Interface
 
