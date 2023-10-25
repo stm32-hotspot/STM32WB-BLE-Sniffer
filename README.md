@@ -8,8 +8,11 @@ Delivered binaries:
   - STM32WB55 Nucleo board : stm32wb55_ble_sniffer_cm4_nucleo.hex
   - STM32WB5MM Discovery kit : stm32wb55_ble_sniffer_cm4_dk.hex
 
-## v1.0.0
+## v1.1.0
+- Bug Fixes:
+  - Handle properly CONNECT_IND to determine whether to follow the link using CSA2 or not.
 
+## v1.0.0
 First release version. Features implemented :
 
 - Bluetooth LE features supported :
